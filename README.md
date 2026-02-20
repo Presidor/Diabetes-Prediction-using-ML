@@ -1,7 +1,9 @@
 # Diabetes-Prediction-using-ML
 
 This repository contains a machine learning pipeline for predicting diabetes risk using the **Pima Indians Diabetes Dataset**. The project explores multiple classification algorithms, performs hyperparameter tuning, and evaluates model performance to identify individuals at risk of diabetes.
-![Project Screenshot](https://github.com/Presidor/Diabetes-Prediction-using-ML/blob/main/Screenshot.png)
+
+## Dataset Preview
+[Dataset Screenshot](https://github.com/Presidor/Diabetes-Prediction-using-ML/blob/main/Screenshot.png)
 
 ## 📊 Dataset
 The dataset includes 768 entries with the following features:
